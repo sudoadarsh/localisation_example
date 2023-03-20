@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome {username}",
+  "@welcome": {
+    "description": "The conventional newborn programmer greeting",
+    "placeholders": {
+        "username": {
+            "type": "String",
+            "example": "Adarsh"
+        }
+    }
+  }
+}
